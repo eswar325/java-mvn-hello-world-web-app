@@ -12,4 +12,4 @@ phases:
 
   build:
     commands:
-      - mvn -s settings.xml clean package 
+      - mvn clean package 
